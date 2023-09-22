@@ -1,0 +1,15 @@
+#board {
+    border: 1px solid black;
+    background-image: url('../img/arena.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    height: 70px;
+    width: 70px;
+}
+
+#orc5 {
+    transform: scaleX(-1);
+}
